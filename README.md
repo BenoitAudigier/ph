@@ -13,6 +13,10 @@ If you want to modify the code, go for main.c
 * [Simple DirectMedia Layer](https://www.libsdl.org/)
 * [Code::Blocks](http://www.codeblocks.org/)
 
+## Authors
+
+* **Benoit Audigier** - *Initial work* - [BenoitAudigier](https://github.com/BenoitAudigier)
+
 ## Acknowledgments
 
 * Program to learn how to C inspired by [OpenClassrooms' C tutorial](https://openclassrooms.com/courses/apprenez-a-programmer-en-c)
